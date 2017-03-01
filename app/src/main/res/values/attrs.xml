@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <declare-styleable name="SideBar" >
+        <!--字之间Vertical的距离-->
+        <attr name="tv_gap" format="dimension" />
+        <!--字的Size-->
+        <attr name="tv_size" format="dimension" />
+        <!--字的颜色-->
+        <attr name="tv_color" format="color" />
+        <!--选中字的颜色-->
+        <attr name="tv_selected_color" format="color" />
+
+    </declare-styleable >
+</resources >
